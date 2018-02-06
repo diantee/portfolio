@@ -3,6 +3,6 @@ Repository containing portfolio of data science projects completed by me for aca
 Presented in the form of iPython Notebooks.
 
 # Contents
-Data Cleaning, Analysis, and Visualization**
+**Data Cleaning, Analysis, and Visualization**
 * **Python**
-    * *Libraries: Pandas, Seaborn, Matplotlib, NumPy, SQLite3*
+  * *Libraries: Pandas, Seaborn, Matplotlib, NumPy, SQLite3*
