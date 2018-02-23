@@ -7,8 +7,9 @@ Presented in the form of iPython Notebooks.
 - ### Probability and Statistics
   - [Analyzing Movie Reviews](
 https://github.com/diantee/portfolio/blob/master/reviewAnalysis/reviewAnalysis.ipynb): Statistical analysis between movies ratings from Metacritic and Fandango.
+  - [Winning Jeopardy!](https://github.com/diantee/portfolio/blob/master/winningJeopardy/winningJeopardy.ipynb): Insight into how the use of statistical methods can help increase the odds of winning *Jeopardy!*
 - ### Data Analysis and Visualization
-  - [Gender Gap in STEM Project](https://github.com/diantee/portfolio/blob/master/stemGender/stemGap.ipynb): Exploratory analysis on the gender gap in STEM fields.
+  - [Gender Gap in STEM](https://github.com/diantee/portfolio/blob/master/stemGender/stemGap.ipynb): Exploratory analysis on the gender gap in STEM fields.
   - [Investigating Movie Reviews](https://github.com/diantee/portfolio/blob/master/movieReviews/movieReviews.ipynb): Analysis investigating the potential bias that movie review sites have.
   - [Thanksgiving Dinner Data Analysis](https://github.com/diantee/portfolio/blob/master/thanksgivingDinner/thanksgivingDinner.ipynb): Very simple analysis of an online survey about what Americans eat for Thanksgiving dinner. 
   - [Titanic Dataset - Exploratory Analysis](https://github.com/diantee/portfolio/blob/master/usingSeaborn/usingSeaborn.ipynb): Exploratory analysis of the passengers onboard RMS Titanic using Pandas and Seaborn visualizations.
